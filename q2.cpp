@@ -21,7 +21,7 @@ void triangulo(int n){
 int main()
 {
 	int n;
-	cout << "Please, give me the length of the middle line of the triangle" << endl;
+	cout << "Porfavor, podrias darme el numero de lineas que deseas para el triangulo" << endl;
 	cin >> n;
 	cout << endl << endl;
 	triangulo(n);
