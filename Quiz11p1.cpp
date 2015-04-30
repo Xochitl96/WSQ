@@ -27,10 +27,10 @@ void readNumbersFromFile(string random_numbers){
   }
   variation = var/numbers.size();
 
-  cout<< counter << " lines in that file"<< endl;
-  cout << "The total of the values is: " << Total << endl;
-  cout << "The average of those values is: " << average << endl;
-  cout << "The Standard Deviation in this file is: " << sqrt(variation) << endl;
+  cout<< counter << " líneas en ese archivo"<< endl;
+  cout << "El total de los valores es: " << Total << endl;
+  cout << "El promedio es esos valores es:  " << average << endl;
+  cout << "La desviacion estandar es :  " << sqrt(variation) << endl;
 }
 
 int main(){
