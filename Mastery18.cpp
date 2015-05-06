@@ -1,5 +1,5 @@
-#Mastery18
-#Tc1017
+//Mastery18
+//TC1017
 #include <iostream>
 using namespace std;
 
